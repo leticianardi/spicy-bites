@@ -83,10 +83,11 @@ To contibute with this project, please contact one of the collaborators.
 ### Collaborators
 
 If you have questions or suggetions, please reach out:
-[Hares Nayabkhil](https://github.com/greenlight510)
-[Leticia Nardi](https://github.com/leticianardi)
-[Monika Kothari](https://github.com/mkothari93)
-[Rafael Cardoso](https://github.com/raf203)
+
+[Hares Nayabkhil](https://github.com/greenlight510) <br />
+[Leticia Nardi](https://github.com/leticianardi) <br />
+[Monika Kothari](https://github.com/mkothari93) <br /
+[Rafael Cardoso](https://github.com/raf203) <br />
 
 ## Deployed
 
