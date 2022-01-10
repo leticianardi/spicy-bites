@@ -91,4 +91,4 @@ If you have questions or suggetions, please reach out:
 
 ## Deployed
 
-You can visit the deployed application [here]
+You can visit the deployed application [here](https://spicy-bites.herokuapp.com/).
