@@ -25,6 +25,11 @@ const commentData = [
     user_id: 2,
     post_id: 1
   },
+  {
+    comment_text: 'Grandma's recipe!',
+    user_id: 2,
+    post_id: 1
+  },
 ];
 const seedComments = () => Comment.bulkCreate(commentData);
 module.exports = seedComments;
