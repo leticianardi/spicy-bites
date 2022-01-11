@@ -86,7 +86,7 @@ If you have questions or suggetions, please reach out:
 
 [Hares Nayabkhil](https://github.com/greenlight510) <br />
 [Leticia Nardi](https://github.com/leticianardi) <br />
-[Monika Kothari](https://github.com/mkothari93) <br /
+[Monika Kothari](https://github.com/mkothari93) <br />
 [Rafael Cardoso](https://github.com/raf203) <br />
 
 ## Deployed
